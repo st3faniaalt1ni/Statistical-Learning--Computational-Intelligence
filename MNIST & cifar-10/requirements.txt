@@ -1,0 +1,7 @@
+numpy
+scikit-learn==0.23
+matplotlib
+pandas
+loguru
+tensorflow
+keras
